@@ -3,7 +3,7 @@ const float VREF = 5.0;
 
 // Update these after calibration
 const int LDR_DARK = 300;
-const int LDR_BRIGHT = 500;
+const int LDR_BRIGHT = 700;
 
 int readAveraged(uint8_t pin, uint8_t samples = 8) {
   long sum = 0;
