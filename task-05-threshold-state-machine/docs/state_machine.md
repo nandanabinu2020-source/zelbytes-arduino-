@@ -68,7 +68,6 @@ After four consecutive readings below SOIL_MIN, irrigation begins.
 
 ## State Diagram
 
-```mermaid
 stateDiagram-v2
 
     [*] --> IDLE
