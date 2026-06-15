@@ -113,10 +113,3 @@ The system successfully records:
 * Light Intensity
 
 The collected data is stored in CSV format and can be imported into spreadsheet software such as Microsoft Excel, Google Sheets, or LibreOffice Calc for further analysis.
-
-## Author
-
-Electronics and Communication Engineering (ECE)
-
-Arduino-Based Sensor Data Logging Project
-
